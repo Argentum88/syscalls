@@ -1,0 +1,13 @@
+*
+
+!.gitignore
+
+!.vscode/
+!.vscode/tasks.json
+!.vscode/settings.json
+
+!.devcontainer/
+!.devcontainer/**
+
+!Makefile
+!Makefile.inc

@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "cap_functions.h": "c",
+        "tlpi_hdr.h": "c",
+        "unistd.h": "c",
+        "stdlib.h": "c",
+        "_stdlib.h": "c",
+        "stdbool.h": "c",
+        "error_functions.h": "c",
+        "file.h": "c",
+        "types.h": "c",
+        "string.h": "c",
+        "errno.h": "c",
+        "get_num.h": "c",
+        "*.inc": "c",
+        "cstdlib": "c"
+    }
+}
